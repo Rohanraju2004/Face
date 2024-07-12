@@ -1,0 +1,1 @@
+This project is a Face Recognition Attendance System that uses a webcam to capture real-time video and identify faces for attendance marking. It employs machine learning with the K-Nearest Neighbors (KNN) algorithm for face recognition. Key features include:
